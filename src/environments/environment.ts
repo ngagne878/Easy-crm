@@ -1,3 +1,4 @@
 export const environment = {
-  API_URL: "https://api-easy-crm.fewnu.app/",
+    production: false,
+  API_URL: "https://localhost:8000/api",
 };
